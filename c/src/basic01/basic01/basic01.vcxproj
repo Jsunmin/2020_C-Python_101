@@ -148,9 +148,12 @@
     <ClCompile Include="array2.c" />
     <ClCompile Include="condition.c" />
     <ClCompile Include="dataNtype.c" />
+    <ClCompile Include="file.c" />
     <ClCompile Include="function.c" />
+    <ClCompile Include="mainNMemory.c" />
     <ClCompile Include="pointer.c" />
     <ClCompile Include="string.c" />
+    <ClCompile Include="struct.c" />
     <ClCompile Include="variable.c" />
   </ItemGroup>
   <ItemGroup>
